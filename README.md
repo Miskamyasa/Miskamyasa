@@ -2,7 +2,8 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Miskamyasa&show_icons=true&locale=en" alt="Miskamyasa" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" />
+<!--     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miskamyasa&show_icons=true&locale=en&layout=compact" alt="Miskamyasa" />
 </p>
 <p>
     
