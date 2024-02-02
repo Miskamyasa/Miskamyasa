@@ -6,6 +6,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miskamyasa&show_icons=true&locale=en&layout=compact" alt="Miskamyasa" />
 </p>
 <p>
+    <br/>
+</p>
+<p>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Miskamyasa" alt="Miskamyasa" /></a>
 </p>
 
