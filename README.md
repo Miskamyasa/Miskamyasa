@@ -2,18 +2,18 @@
 
 <p>
     <img 
-        align="left" 
+        align="center" 
         src="https://github-readme-stats.vercel.app/api?username=Miskamyasa&show_icons=true&locale=en" 
         alt="Miskamyasa" 
     />
     <br/>
 </p>
 <p>
-    <!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" /> -->
+    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" /> -->
 </p>
 <p>
     <img 
-        align="left" 
+        align="center" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Miskamyasa&show_icons=true&locale=en&layout=compact" 
         alt="Miskamyasa" 
     />
