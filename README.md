@@ -1,19 +1,31 @@
 ### Hi there 👋
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Miskamyasa&show_icons=true&locale=en" alt="Miskamyasa" />
+    <img 
+        align="left" 
+        src="https://github-readme-stats.vercel.app/api?username=Miskamyasa&show_icons=true&locale=en" 
+        alt="Miskamyasa" 
+    />
     <br/>
 </p>
 <p>
-    <!--     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" /> -->
+    <!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" /> -->
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miskamyasa&show_icons=true&locale=en&layout=compact" alt="Miskamyasa" 
+    <img 
+        align="left" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Miskamyasa&show_icons=true&locale=en&layout=compact" 
+        alt="Miskamyasa" 
+    />
+    <br/>
+</p>
+<p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img 
+            src="https://github-profile-trophy.vercel.app/?username=Miskamyasa" 
+            alt="Miskamyasa" 
         />
-    <br/>
-</p>
-<p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Miskamyasa" alt="Miskamyasa" /></a>
+    </a>
     <br/>
 </p>
 
