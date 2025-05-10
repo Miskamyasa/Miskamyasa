@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p>
     <img 
         align="center" 
