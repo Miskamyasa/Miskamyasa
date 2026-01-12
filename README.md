@@ -1,29 +1,10 @@
-<p>
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=Miskamyasa&show_icons=true&locale=en" 
-        alt="Miskamyasa" 
-    />
-    <br/>
-</p>
-<p>
-    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Miskamyasa&" alt="Miskamyasa" /> -->
-</p>
-<p>
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Miskamyasa&show_icons=true&locale=en&layout=compact" 
-        alt="Miskamyasa" 
-    />
-    <br/>
-</p>
-<p>
-    <img 
-        src="https://github-profile-trophy.vercel.app/?username=Miskamyasa" 
-        alt="Miskamyasa" 
-    />
-    <br/>
-</p>
+With over 10 years as a Full Stack (Frontend oriented) Developer, I combine strong backend skills with frontend mastery. I deliver responsive web applications and mobile solutions while maintaining high code quality standards. 
+
+My work includes building complete solutions, conducting code reviews, and translating business requirements into technical specifications. 
+
+I'm passionate about perfect user experience, working closely with UI/UX teams to create seamless interfaces. 
+
+I aim to use my full-stack skills in a team environment where I can contribute across the entire technology stack.
 
 <!--
 **Miskamyasa/Miskamyasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
