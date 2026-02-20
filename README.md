@@ -1,4 +1,4 @@
-Full-stack dev (FrontEnd-leaning) with solid backend chops. I ship responsive web apps + mobile solutions without letting code quality decay into spaghetti.
+Full-stack dev (frontend-leaning) with solid backend chops. I ship responsive web apps + mobile solutions without letting code quality decay into spaghetti.
 
 I build end-to-end systems, run code reviews, and turn business requirements into actual technical specs that don’t implode at runtime.
 
