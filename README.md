@@ -1,10 +1,8 @@
-With over 10 years as a Full Stack (Frontend oriented) Developer, I combine strong backend skills with frontend mastery. I deliver responsive web applications and mobile solutions while maintaining high code quality standards. 
+Full-stack dev (FrontEnd-leaning) with solid backend chops. I ship responsive web apps + mobile solutions without letting code quality decay into spaghetti.
 
-My work includes building complete solutions, conducting code reviews, and translating business requirements into technical specifications. 
+I build end-to-end systems, run code reviews, and turn business requirements into actual technical specs that don’t implode at runtime.
 
-I'm passionate about perfect user experience, working closely with UI/UX teams to create seamless interfaces. 
-
-I aim to use my full-stack skills in a team environment where I can contribute across the entire technology stack.
+UX matters for me the most. I work closely with ui/ux to make interfaces feel coherent, not accidental.
 
 <!--
 **Miskamyasa/Miskamyasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
